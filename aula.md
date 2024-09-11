@@ -61,3 +61,8 @@ Como ul lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 # Condicionais
 
 -[x] switch
+
+## Módulos em Node.js:
+
+- [x] Importação de módulos (require, CommonJS)  
+- [x] Biblioteca 'inquirer' parar criar prompts interativos  
