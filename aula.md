@@ -16,21 +16,40 @@ Como ul lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 # Fases da resolução de um problema
 
-Coletar os dados  
-Processar os dados (manipular, alterar ...)  
-Apresentar os dados  
+- [x] Coletar os dados  
+- [x] Processar os dados (manipular, alterar ...)  
+- [x] Apresentar os dados  
 
 ## Escopo e variáveis:
 
-Variáveis globais e locais  
-Constantes  
+- [x] Variáveis globais e locais  
+- [x] Constantes  
 
 ## Tipos de dados:
 
-Strings (textos): "" '' ``  
-Number: 2 1.4  
-Function
+- [x] Strings (textos): "" '' ``  
+- [x] Number: 2 1.4  
+- [x] Boolean: true, false
 
 ## Operadores
 
-Operadores de atribuição de valor  
+- [x] Operadores de atribuição de valor  
+- [x] Operador de concatenação  
+
+## Estruturas de dados:
+
+### Arrays:
+
+- [x] Uma lista que contém qualquer tipo de dado
+
+### Objetos:
+
+- [x] Atributos e métodos  
+- [x] Criação de manipulação de objetos  
+- [x] Acesso a propriedades de objetos  
+
+### Functions:
+
+- [x] Criar, passar argumento
+- [x] Executar
+- [x] Arrow function / Named function
