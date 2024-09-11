@@ -66,3 +66,7 @@ Como ul lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 - [x] Importação de módulos (require, CommonJS)  
 - [x] Biblioteca 'inquirer' parar criar prompts interativos  
+
+## Programação assíncrona e Promises:
+
+- [x] Uso de funções assíncronas (async/await)
