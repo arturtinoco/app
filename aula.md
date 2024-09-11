@@ -1,9 +1,9 @@
 ## Linguagem de programação
 
-Maneira de dar instrução ao computador.
-Como ul lego, você irá utilizar peças para criar algoritmos, ou seja, para resolver problemas.
+Maneira de dar instrução ao computador.  
+Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para resolver problemas.  
 
-**Algoritmo**: Sequência de passos lógica e finita para resolução de um problema.
+**Algoritmo**: Sequência de passos lógica e finita para resolução de um problema.  
 
 ## Peças de uma linguagem
 
@@ -33,8 +33,9 @@ Como ul lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 ## Operadores
 
-- [x] Operadores de atribuição de valor  
-- [x] Operador de concatenação  
+- [x] Operadores de atribuição de valor =  
+- [x] Operador de concatenação +  
+- [x] Operadores de comparação: == != < > <= >=
 
 ## Estruturas de dados:
 
@@ -60,7 +61,8 @@ Como ul lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 # Condicionais
 
--[x] switch
+- [x] switch
+- [x] if/else
 
 ## Módulos em Node.js:
 
